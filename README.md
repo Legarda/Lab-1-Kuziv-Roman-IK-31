@@ -6,4 +6,5 @@
   5. Вирішення проблеми видаленням в README newbranch.
   6. Внесення змін за допомогою команди $ git pull
   7. синхронізація за допомогою $ git pull origin main
-  8. Додавання картинки на головну сторінку
+  10. Додавання картинки на головну сторінку
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/e2/93/56/e29356f6-a7a5-0aa3-0969-1c2be8630815/AppIcon-1x_U007emarketing-85-220-0-7.png/246x0w.jpg" />
