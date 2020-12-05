@@ -5,3 +5,4 @@
   4. Створив гілку за допомоги команди $ git branch newbranch. Перейшов на гілку за допомоги команди $ git checkout newbranch.
   5. Вирішення проблеми видаленням в README newbranch.
   6. Внесення змін за допомоги команди $ git pull
+  7. синхронізація за допомоги $ git pull origin main
